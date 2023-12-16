@@ -1,6 +1,4 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù–Ö×8áÚ°ÉÆ1
-X	java:S125$"<This block of commented-out lines of code should be removed.(¡™ò‘8˜²çÚÆ1
-]	java:S125-"<This block of commented-out lines of code should be removed.(þ€‹­üÿÿÿÿ8ëÇçÚÆ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù–Ö×8æÑëˆÇ1
 p
-java:S1128	"SRemove this unused import 'java.nio.file.attribute.UserPrincipalNotFoundException'.(¢³Ë÷8ìÇçÚÆ1
+java:S1128	"SRemove this unused import 'java.nio.file.attribute.UserPrincipalNotFoundException'.(¢³Ë÷8‡ÒëˆÇ1
