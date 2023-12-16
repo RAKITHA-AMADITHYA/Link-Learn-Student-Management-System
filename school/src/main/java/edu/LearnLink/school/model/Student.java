@@ -18,7 +18,7 @@ public class Student implements Serializable {
     private Long id;
     private String name;
     private String email;
-    private String Batch;
+    private String batch;
     private String contact;
     private String imageUrl;
 
